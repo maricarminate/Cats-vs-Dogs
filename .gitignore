@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.pyc
+
+# Dados (NÃO versionar imagens - são muito grandes!)
+data/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# Modelos treinados (muito grandes)
+*.keras
+*.h5
+*.pb
+
+# Resultados
+resultados/
+resultado_*.jpg
+resultado_*.png
+resultados_treinamento.png
+matriz_confusao.png
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
