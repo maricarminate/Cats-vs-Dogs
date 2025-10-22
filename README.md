@@ -8,13 +8,15 @@ Projeto de Machine Learning usando Redes Neurais Convolucionais (CNN) para class
 
 ## 📊 Resultados
 
-- **Acurácia:** 84.82% (coloque sua acurácia aqui!)
+- **Acurácia:** 84.82%
 - **Dataset:** 25.000 imagens (Kaggle Dogs vs Cats)
 - **Arquitetura:** CNN com 4 camadas convolucionais
 
 ## 🖼️ Demonstração
 
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/f6f6c777-7ad0-4c9c-a7ce-ca6363f0f1c3" />
+
+
 
 ## 🎯 Funcionalidades
 
@@ -109,9 +111,9 @@ Total: ~3.5M parâmetros
 ## 📊 Métricas de Avaliação
 
 - **Acurácia:** 84.82%
-- **Precisão:** XX.XX%
-- **Recall:** XX.XX%
-- **F1-Score:** XX.XX%
+- **Precisão:** 49%
+- **Recall:** 49%
+- **F1-Score:** 49%
 
 ## 🎓 Aprendizados
 
